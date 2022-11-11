@@ -3,15 +3,17 @@
 
 - 👀 I’m interested in cryptocurrencies 
      industry, forex, charts analysis,
-     football.
+     data analyst and trading.
        Working full time as a machinery 
      production setup machinist in 
      fast-paced environment and some projects
      on my own.
 
 
-- 🌱 I’m currently gaining coding skills in
-     Phyton.
+- 🌱 I’m currently gaining skills in
+     Phyton (matplotlib, pandas, Numpy),
+     Django, sql all including data, graphs.
+     
 
 
 - 💞️ I’m looking to collaborate on 
