@@ -12,7 +12,8 @@
 
 - 🌱 I’m currently gaining skills in
      Phyton (matplotlib, pandas, Numpy),
-     Django, sql all including data, graphs.
+     Django, sql and all others usefully
+     modules.
      
 
 
